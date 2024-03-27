@@ -6,7 +6,6 @@ build/
 !**/src/test/**/build/
 
 application-my.yml
-gradle/wrapper
 
 ### STS ###
 .apt_generated
